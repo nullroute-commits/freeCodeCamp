@@ -85,11 +85,11 @@
     "lodash-es": "4.17.21",
     "micromark": "4.0.0",
     "monaco-editor": "0.33.0",
-    "nanoid": "3.3.7",
+    "nanoid": "3.3.8",
     "normalize-url": "6.1.0",
     "path-browserify": "1.0.1",
-    "postcss": "8.4.35",
-    "prismjs": "1.29.0",
+    "postcss": "8.4.36",
+    "prismjs": "1.30.0",
     "process": "0.11.10",
     "prop-types": "15.8.1",
     "qrcode.react": "^3.1.0",
@@ -119,7 +119,7 @@
     "redux-saga": "1.2.3",
     "reselect": "4.1.8",
     "rxjs": "6.6.7",
-    "sanitize-html": "2.11.0",
+    "sanitize-html": "2.12.1",
     "store": "2.0.12",
     "stream-browserify": "3.0.0",
     "tone": "14.7.77",
@@ -170,6 +170,6 @@
     "react-test-renderer": "17.0.2",
     "redux-saga-test-plan": "4.0.6",
     "serve": "13.0.4",
-    "webpack": "5.90.3"
+    "webpack": "5.94.0"
   }
 }
