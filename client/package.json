@@ -85,8 +85,8 @@
     "gatsby-transformer-remark": "5.25.1",
     "i18next": "25.2.1",
     "instantsearch.js": "4.75.3",
-    "lodash": "4.17.21",
-    "lodash-es": "4.17.21",
+    "lodash": "4.18.1",
+    "lodash-es": "4.18.1",
     "micromark": "4.0.0",
     "monaco-editor": "0.33.0",
     "nanoid": "3.3.7",
@@ -187,6 +187,6 @@
     "redux-saga-test-plan": "4.0.6",
     "serve": "13.0.4",
     "vitest": "^4.0.15",
-    "webpack": "5.90.3"
+    "webpack": "5.104.1"
   }
 }
