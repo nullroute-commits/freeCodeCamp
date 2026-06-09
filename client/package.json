@@ -90,7 +90,7 @@
     "lodash-es": "4.18.1",
     "micromark": "4.0.2",
     "monaco-editor": "0.52.2",
-    "nanoid": "3.3.12",
+    "nanoid": "5.1.11",
     "normalize-url": "6.1.0",
     "path-browserify": "1.0.1",
     "pinyin-tone": "2.4.0",
@@ -126,13 +126,13 @@
     "redux-saga": "1.4.2",
     "reselect": "4.1.8",
     "rxjs": "6.6.7",
-    "sanitize-html": "2.17.3",
+    "sanitize-html": "2.17.4",
     "store": "2.0.12",
     "stream-browserify": "3.0.0",
     "tone": "15.1.22",
     "typescript": "5.9.3",
     "util": "0.12.5",
-    "uuid": "8.3.2",
+    "uuid": "14.0.0",
     "validator": "13.15.35"
   },
   "devDependencies": {
@@ -176,13 +176,13 @@
     "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.32",
     "i18next-fs-backend": "2.6.5",
     "joi": "18.1.2",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "monaco-editor-webpack-plugin": "7.1.1",
     "react-test-renderer": "18.3.1",
     "readdirp": "3.6.0",
     "redux-saga-test-plan": "4.0.6",
     "serve": "13.0.4",
-    "vitest": "^4.0.15",
-    "webpack": "5.106.2"
+    "vitest": "^3.2.6",
+    "webpack": "5.107.0"
   }
 }

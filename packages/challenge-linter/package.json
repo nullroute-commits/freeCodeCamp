@@ -38,7 +38,7 @@
     "markdownlint": "0.40.0",
     "prismjs": "1.30.0",
     "typescript": "5.9.3",
-    "vitest": "3.2.4",
+    "vitest": "3.2.6",
     "yargs": "17.7.2"
   },
   "dependencies": {
